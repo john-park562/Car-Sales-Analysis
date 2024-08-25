@@ -21,7 +21,9 @@ Analyzing car sales trends from 2020-2021. Interactive Tableau dashboard can be 
 ### Cars Sold Metrics:
 * An estimated number of #13K cars were sold in 2021, resulting in a 25% increase in cars sold compared to 2020. This increase is a strong indicator of increased demand. Investigate whether the supply chain was effectively managing this growth without significant stockouts, delays, or customer dissatisfaction and make adjustments accordingly.  
 ## Recommendations & Next Steps
-
+* Investigate why total sales growth has seen such drastic growth and expand this analysis to include more years to determine whether this trend is pandemic-related or consistent across time. Consider expanding inventory or increasing marketing efforts to sustain this growth.
+*  Although the relatively small average price decrease this year may indicate a relatively stable pricing environment, monitor competitor pricing to ensure that this decrease isn't the start of a larger trend.
+*  Investigate whether the supply chain was able to meet the significant increase in car sales demand without any issues. Do any changes need to be made to our supply chain process if we are to manage a further increase in demand?  
  
 
 
