@@ -15,11 +15,11 @@ Analyzing car sales trends from 2020-2021. Interactive Tableau dashboard can be 
 * YOY Growth in Cars Sold
 ## Summary of Insights
 ### Sales Overview:
-*Total sales made in 2021 were a staggering $371M, resulting in a sales growth of 24% since last year. Investigate what is driving this growth and capitalize on those factors. 
+* Total sales made in 2021 were a staggering $371M, resulting in a sales growth of 24% since last year. Investigate what is driving this growth and capitalize on those factors. 
 ### Average Price Analysis:
-*The average price of cars sold in 2021 was $28K, resulting in an average price decrease of 0.79% compared to last year's average price of cars sold. This is an insignificant decrease in average price and may indicate a relatively stable pricing environment.   
+* The average price of cars sold in 2021 was $28K, resulting in an average price decrease of 0.79% compared to last year's average price of cars sold. This is an insignificant decrease in average price and may indicate a relatively stable pricing environment.   
 ### Cars Sold Metrics:
-*An estimated number of #13K cars were sold in 2021, resulting in a 25% increase in cars sold compared to 2020. This increase is a strong indicator of increased demand. Investigate whether the supply chain was effectively managing this growth without significant stockouts, delays, or customer dissatisfaction and make adjustments accordingly.  
+* An estimated number of #13K cars were sold in 2021, resulting in a 25% increase in cars sold compared to 2020. This increase is a strong indicator of increased demand. Investigate whether the supply chain was effectively managing this growth without significant stockouts, delays, or customer dissatisfaction and make adjustments accordingly.  
 ## Recommendations & Next Steps
 
  
